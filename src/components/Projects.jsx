@@ -24,6 +24,7 @@ const projects = [
       "Integrated a 24/7 multilingual Google Gemini AI Chatbot for workers to query payroll, file complaints, and get help in native languages.",
       "Built real-time tracking and deployment density maps using Leaflet, matching active workforce against reported civic issues.",
     ],
+    live: "https://mcd-dashboard-kappa.vercel.app/",
     source: "https://github.com/XecenT-T/MCD_Dashboard",
   },
   {
